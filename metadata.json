@@ -1,0 +1,8 @@
+{
+  "name": "PDF editor Pro",
+  "description": "Comprehensive PDF editor and utility suite to merge, edit, annotate, sign, convert to Office (Word, Excel, PPT) and images, convert Word to PDF, compress PDF/images, password protect & unlock documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
